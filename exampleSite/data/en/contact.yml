@@ -7,8 +7,6 @@ contact:
   contact_list:
   - icon: ti-location-pin
     info: United States
-  - icon: ti-mobile
-    info: Phone:+1-(405)-894-2701
   - icon: ti-email
     info: 'Email: saswata.rautray@okstate.edu'
   contact_form:
