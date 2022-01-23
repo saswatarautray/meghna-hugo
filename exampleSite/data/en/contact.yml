@@ -5,10 +5,10 @@ contact:
   subtitle: Contact Details
   content: ''
   contact_list:
-  - icon: ti-location-pin
-    info: United States
   - icon: ti-email
     info: 'Email: saswata.rautray@okstate.edu'
+  - icon: ti-location-pin
+    info: United States
   contact_form:
     enable: true
     form_action: "#"
