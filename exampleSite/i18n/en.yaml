@@ -15,10 +15,8 @@
   translation: All
 - id: Education
   translation: Education
-- id: services
-  translation: Service
-- id: portfolio
-  translation: Portfolio
+- id: Projects
+  translation: Projects
 - id: team
   translation: Team
 - id: pricing
