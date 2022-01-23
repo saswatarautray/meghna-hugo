@@ -1,20 +1,22 @@
 ---
 skill:
   enable: true
-  title: Our Skills
-  subtitle: We’ve skilled in wide range of web and Other digital market tools.
-  content: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
-    magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat
-    sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  title: Technical Skills
+  subtitle: ''
+  content: "• Languages: Python, R, SAS, Bash, T-SQL \n(Microsoft SQL Server, MySQL,
+    Oracle), VB\n• Visualization: Tableau, SAS Viya, Power BI, Plotly\n• ETL Tools:
+    Apache Spark, Airflow, MS SSIS, Alteryx \n• Python Libraries: Pandas, Numpy, scikit-learn,
+    Tensorflow, statsmodel, NLTK, Spacy, Selenium\n• Domain: Statistical Analytics,
+    Machine Learning, NLP, Regression Analysis, Time Series Forecasting\n• Competencies:
+    Insights finding, Problem Solving, Quick learning, Leadership, Team collaboration\n•
+    Awards: Business Analytics and Data Science Advisory Board Scholarship, OSU\n"
   image: images/about/company-growth.webp
   skill_item:
   - name: Python
     percent: 90%
   - name: SQL
     percent: 80%
-  - name: Design
-    percent: 80%
+  - name: Tableau
+    percent: 70%
   - name: IOS Development
     percent: 95%
-  - name: Android Development
-    percent: 75%
