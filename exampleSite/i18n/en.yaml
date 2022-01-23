@@ -15,15 +15,9 @@
   translation: All
 - id: Education
   translation: Education
-- id: Projects
-  translation: Projects
 - id: Skills
   translation: Skills
-- id: pricing
-  translation: Pricing
-- id: blog
-  translation: Blog
-- id: contact
+- id: Projects
+  translation: Projects
+- id: Contact
   translation: Contact
-- id: themefisher
-  translation: Themefisher
