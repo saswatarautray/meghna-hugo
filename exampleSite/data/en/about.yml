@@ -1,7 +1,7 @@
 ---
 about:
   enable: false
-  title: About Us
+  title: Education
   about_item:
   - icon: ti-ruler-pencil
     title: Bachelors in Technology
@@ -16,6 +16,8 @@ about:
        (Machine Learning, Data Science & Design Thinking), India
       Aug 2020 - July 2021
   - icon: ti-thought
-    title: We're Genius
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+    title: Masters
+    content: |
+      Business Analytics & Data Science, (4.0 GPA)
+      Oklahoma State University, USA
+      Aug 2021 - May 2023
