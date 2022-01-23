@@ -3,6 +3,8 @@ title: Saswata Rautray
 image: ''
 email: saswata.rautray@okstate.edu
 social:
+- icon: ti-linkedin
+  link: https://www.linkedin.com/in/saswatarautray/
 - icon: ti-facebook
   link: "#"
 - icon: ti-twitter-alt
