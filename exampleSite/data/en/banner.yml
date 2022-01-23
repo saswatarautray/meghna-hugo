@@ -1,12 +1,15 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  enable: true
+  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image: images/backgrounds/hero-area.jpg
+  icon: ''
+  title: Welcome to my portfolio page!
+  content: Data Science professional with 4 years of experience in solving business
+    problems with technology using query optimization, data extraction, predictive
+    modelling, and visualization. Equipped with expertise in SQL, Python, Machine
+    Learning, Excel, Power BI, Tableau, data science modelling and Statistical analysis.
   button:
-    enable : true
-    label : "Explore Us"
-    link : "#services"
+    enable: true
+    label: Know me more
+    link: "#about"
