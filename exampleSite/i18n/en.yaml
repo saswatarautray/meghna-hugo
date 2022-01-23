@@ -17,8 +17,8 @@
   translation: Education
 - id: Projects
   translation: Projects
-- id: team
-  translation: Team
+- id: Skills
+  translation: Skills
 - id: pricing
   translation: Pricing
 - id: blog
