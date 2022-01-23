@@ -17,7 +17,7 @@ contact:
     enable: true
     form_action: "#"
     name: Your Name
-    email: Your Email
+    email: Your email
     subject: Subject
     message: Message
     submit: Submit
