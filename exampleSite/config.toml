@@ -17,8 +17,8 @@ name = "Education"
 url = "#education"
 weight = 1
 [[Languages.en.menu.main]]
-name = "services"
-url = "#services"
+name = "Skills"
+url = "#skills"
 weight = 2
 [[Languages.en.menu.main]]
 name = "portfolio"
