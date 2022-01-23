@@ -21,8 +21,8 @@ name = "Skills"
 url = "#skills"
 weight = 2
 [[Languages.en.menu.main]]
-name = "portfolio"
-url = "#portfolio"
+name = "Projects"
+url = "#projects"
 weight = 3
 [[Languages.en.menu.main]]
 name = "contact"
