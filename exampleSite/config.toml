@@ -101,7 +101,7 @@ weight = 8
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
-logo = "images/logo.png"
+logo = ""
 post_share = true
 [params.cookies]
 enable = false
@@ -140,17 +140,8 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
-[[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "#https://www.linkedin.com/in/saswatarautray/"
 [[params.social]]
 icon = "ti-dribbble"
 link = "#"
